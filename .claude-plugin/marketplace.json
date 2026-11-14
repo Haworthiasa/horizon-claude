@@ -1,0 +1,14 @@
+{
+  "name": "horizon-claude",
+  "owner": {
+    "name": "Haworthiasa"
+  },
+  "description": "Horizon: a planet-limb backdrop and matching dark colors for Claude Code Desktop",
+  "plugins": [
+    {
+      "name": "horizon",
+      "source": "./",
+      "description": "A dithered planet horizon behind the Claude Code Desktop chat, lit for the time of day, with matching app colors"
+    }
+  ]
+}

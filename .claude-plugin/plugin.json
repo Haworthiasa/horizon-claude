@@ -1,0 +1,9 @@
+{
+  "name": "horizon",
+  "version": "0.3.0",
+  "description": "A dithered planet horizon behind the Claude Code Desktop chat, lit for the time of day, with matching app colors",
+  "author": {
+    "name": "Haworthiasa"
+  },
+  "license": "MIT"
+}
