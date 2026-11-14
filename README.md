@@ -4,8 +4,6 @@ A Claude Code mod for the Desktop app's Code tab. It puts a planet's limb behind
 
 ![Horizon behind the Claude Code Desktop chat](Preview/desktop.webp)
 
-![The four times of day: dawn, day, dusk and night](Preview/phases.jpg)
-
 ## Install
 
 At the prompt of a Claude Code terminal session:
